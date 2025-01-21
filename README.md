@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Superstudent010288
-- 👀 I’m interested in сварка
+  - 👋 Hi, I’m @Superstudent010288
+-  👀 I’m interested in сварка
 - 🌱 I’m currently learning сварочные работы
 - 💞️ I’m looking to collaborate on по поводу этого
 - 📫 How to reach me dimadorosenko1@gmail.com
